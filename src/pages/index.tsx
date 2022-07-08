@@ -63,8 +63,3 @@ export const getStaticProps: GetStaticProps = async () => {
   }
 }
 
-export const getServerSideProps: GetServerSideProps = async () => {
-  return {
-
-  }
-}
